@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mongodb">
+    <CLASSES>
+      <root url="file://C:/install/jars/mongodb" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/install/jars/mongodb" recursive="false" />
+  </library>
+</component>
